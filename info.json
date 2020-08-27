@@ -1,0 +1,11 @@
+{
+    "name": "pyhightech-pipes-fast-replace",
+    "version": "1.0.1",
+    "title": "PyHighTech Pipes Fast Replace",
+    "author": "Sparr",
+    "contact": "sparr0@gmail.com",
+    "homepage": "https://github.com/sparr/factorio-mod-pyhightech-pipes-fast-replace",
+    "factorio_version": "1.0",
+    "dependencies": ["base >= 1.0", "pyhightech"],
+    "description": "Restore fast replace for pipes and underground pipes"
+}
